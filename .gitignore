@@ -1,0 +1,6 @@
+.cache/
+.cache
+dataset/
+lightning_logs/
+podcast.ipynb
+.env
